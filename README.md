@@ -15,5 +15,6 @@ Results:
   - Passed: TC01 & TC02
   - Not implemented yet: TC03 & TC04
 
-Reason & Issue:
-  - For now, I got a stuck issue when swiching window from "Registration" to "Login" screen. Drive is lost after doing the switch action. Will investigate late.
+Reasons & Issues:
+  - For now, I got a stuck issue when swiching window from "Registration" to "Login" screen. Drive is lost after doing the switch action. So, TC03 and TC04 are not done yet.
+  - Not designed report template yet.
